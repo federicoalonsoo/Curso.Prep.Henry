@@ -1,0 +1,12 @@
+* `for`: Esto es un tipo de bucle finito. Esto significa que una accion se repite una y otra vez. Pero antes
+de repetir, el bucle hace una pregunta, si la respuesta es 'true' (verdadero), repite, y si es 'false' (falso),
+deja de repetir y termina el bucle.
+
+* `&&`, `||`, `!`: Estos se llaman Operadores Logicos, al '&&' se le llama 'and' que significa 'y',
+y es para preguntar si una condicion Y otra condicion son verdaderas, ambas dos. Mientras que '||',
+que se le dice 'or' que significa 'o' se usa para preguntar si una condicion U otra es verdadera,
+es decir, con que alguna de las dos lo sea alcanza. y por ultimo tenemos el '!' que se le dice 'not',
+que se usa para preguntar si una condicion NO es verdadera, es decir, invierte la respuesta. Por ejemplo,
+si (1 === 1) es verdadero, cuando preguntemos si !(1 === 1) la respuesta seria falso, porque lo que
+estamos preguntando es si la afirmacion " 1 es igual a 1 " es falsa, entonces como la respuesta es que no,
+el resultado es falso.
